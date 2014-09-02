@@ -29,7 +29,7 @@ source-repository head
   Location: git://github.com/basvandijk/vector-bytestring.git
 
 Library
-  build-depends: base       >= 4.3   && < 4.7
+  build-depends: base       >= 4.3   && < 4.8
                , primitive  >= 0.3.1 && < 0.6
                , ghc-prim   >= 0.2   && < 0.4
                , vector     >= 0.9.1 && < 0.11
